@@ -1,0 +1,16 @@
+body{
+    background-color: #f2f2f2;
+}
+.custom-header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.error {
+    color: #ff0000;
+}
+.output {
+    background-color: #ffffff;
+}
+pre {
+    padding: 5px !important;
+}

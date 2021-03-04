@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Dave",
+        "address": {
+            "line1": "Street1",
+            "line2": "Town1"
+        }
+    },
+    {
+        "name": "Victor",
+        "address": {
+            "line1": "Street2",
+            "line2": "Town2"
+        }
+    }
+]
